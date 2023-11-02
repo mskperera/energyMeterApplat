@@ -9,10 +9,26 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@expo/webpack-config": "^19.0.0",
+    "@react-navigation/bottom-tabs": "^6.5.11",
+    "@react-navigation/native": "^6.1.9",
+    "d3": "^7.8.5",
     "expo": "~49.0.15",
     "expo-status-bar": "~1.6.0",
+    "firebase": "^10.5.2",
+    "moment": "^2.29.4",
     "react": "18.2.0",
-    "react-native": "0.72.6"
+    "react-gauge-chart": "^0.4.1",
+    "react-native": "0.72.6",
+    "react-native-chart-kit": "^6.12.0",
+    "react-native-circular-progress-indicator": "^4.4.2",
+    "react-native-gesture-handler": "~2.12.0",
+    "react-native-reanimated": "~3.3.0",
+    "react-native-redash": "^18.1.1",
+    "react-native-svg": "13.9.0",
+    "react-native-web": "~0.19.6",
+    "react-redux": "^8.1.3",
+    "redux": "^4.2.1"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
